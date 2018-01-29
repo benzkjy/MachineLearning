@@ -1,2 +1,2 @@
 # MachineLearning
-Study Machine Learning by myself
+Study Machine Learning by myself from www.superdatascience.com
